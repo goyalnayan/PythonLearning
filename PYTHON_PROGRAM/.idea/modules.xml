@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../100_days_python/.idea/100_days_python.iml" filepath="$PROJECT_DIR$/../100_days_python/.idea/100_days_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PYTHON_LEARNING.iml" filepath="$PROJECT_DIR$/.idea/PYTHON_LEARNING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PYTHON_PACKAGES/.idea/PYTHON_MODULES.iml" filepath="$PROJECT_DIR$/../PYTHON_PACKAGES/.idea/PYTHON_MODULES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PYTHON_PACKAGES/.idea/PYTHON_PACKAGES.iml" filepath="$PROJECT_DIR$/../PYTHON_PACKAGES/.idea/PYTHON_PACKAGES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PYTHON_PROGRAM/.idea/PYTHON_PROGRAM.iml" filepath="$PROJECT_DIR$/../PYTHON_PROGRAM/.idea/PYTHON_PROGRAM.iml" />
+    </modules>
+  </component>
+</project>
